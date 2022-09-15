@@ -5,5 +5,4 @@ while sum < 101:
   print(sum)
   sum = sum + 1
   git add sum.py
-git status
-commit
+git status show
