@@ -3,5 +3,6 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add TWs_HW1 https://github.com/tweathers1/HW1.git
+git remote add TWhw1 https://github.com/tweathers1/HW1.git
 git push -u origin main
+git commit
