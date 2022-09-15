@@ -6,3 +6,4 @@ while sum < 101:
   sum = sum + 1
   git add sum.py
 git status
+commit
